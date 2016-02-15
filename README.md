@@ -1,2 +1,2 @@
 # blankspace
-_.Taylor Swift underscore/lodash competitor
+Copyright (c) 1989
